@@ -1,5 +1,9 @@
-# termux-tuslari
+# termux-tuşları
 Termux için yazılmıştır...
+
+## Termux'ta nasıl kullanılır?
+* `cd termux-tuslari`
+
 
 <h3 align="center">
 :: Ekran Görüntüsü ::
