@@ -11,3 +11,5 @@ Termux için yazılmıştır...
 <p align="center">
   <img src="resim.jpg">
 </p>
+
+<h3>Hazırlayan: By-Emirhan</h3>
