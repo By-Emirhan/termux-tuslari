@@ -27,9 +27,9 @@ do
     echo ${RED}[${WHITE}03${RED}] ${WHITE}= ${RED}Daha fazla bilgi / More information
     echo ${RED}[${WHITE}04${RED}] ${WHITE}= ${RED}Çıkış / Exit
     echo
-    read -p "${ORANGE}Seçim yapınız: " choice
+    read -p "${ORANGE}Seçim yapınız: " secim
 
-    case "$choice" in
+    case "$secim" in
         1)
 	    echo
             echo "${GREEN}Termux'a tuşlar ekleniyor..."
